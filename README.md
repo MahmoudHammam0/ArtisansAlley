@@ -1,5 +1,3 @@
-![ArtisansAlley](./web_flask/static/images/README_cover.png)
-
 # ArtisansAlley
 
 ArtisansAlley was developed as a project for the **ALX Software Engineering program** (Holberton School). It marks the end of the foundations period that lasted for 9 months and the start of the specialization period. The project was created by **Mahmoud Hammam** and **Youssef El Ghamour**.
